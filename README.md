@@ -1,5 +1,5 @@
 # bot.png
-This is a simple twitter bot that will reply to you using images!
+This is a simple twitter bot that will reply to you using images! (Written in nodejs)
 
 Below is what you would ask the bot:
 
