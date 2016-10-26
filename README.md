@@ -1,4 +1,6 @@
 # bot.png
+This bot is currently running under the handle @botdotpng. Try it out by tweeting at it! (Keep in mind your tweet must coontain .png somewhere, such as hi @botdotpng whats up.png)
+
 This is a simple twitter bot that will reply to you using images! (Written in nodejs)
 
 Below is what you would ask the bot:
