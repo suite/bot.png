@@ -1,6 +1,10 @@
 # bot.png
+
+#Try it out!
+
 This bot is currently running under the handle @botdotpng. Try it out by tweeting at it! (Keep in mind your tweet must coontain .png somewhere, such as hi @botdotpng whats up.png)
 
+#What does it do?
 This is a simple twitter bot that will reply to you using images! (Written in nodejs)
 
 Below is what you would ask the bot:
@@ -10,3 +14,4 @@ Below is what you would ask the bot:
 And this is what it responds with...
 
 ![alt tag](https://i.gyazo.com/c35dcc6a5c23e7bf6d82680ba3cf1c43.png)
+
